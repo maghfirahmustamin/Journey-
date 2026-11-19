@@ -1,0 +1,6 @@
+{
+  "name": "Momori — Interactive Memory Scrapbook",
+  "description": "Create, flip, edit photos, customize stickers, and save your interactive digital memory scrapbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
